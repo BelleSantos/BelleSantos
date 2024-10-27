@@ -2,7 +2,7 @@
     Gosto de desenhos , criar e agora estou entrando no mundo do desenvolvimento.
 
 # 🌏conecte-se comigo 
-[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/aquario5)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/BelleSantos)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=blue)
 # 📚 habilidades
 
@@ -12,10 +12,11 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=blue)
 
 # 💻 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquario5&theme=transparent&bg_color=black&border_color=blue&show_icons=true&icon_color=blue&title_color=blue&text_color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BelleSantos&theme=transparent&bg_color=black&border_color=blue&show_icons=true&icon_color=blue&title_color=blue&text_color=blue)
 
-# 💎 Projetos Autorais  
+# 🚧 Projetos Autorais  
+  Projetos ainda em desenvolvimento!!
+  
+ <BR>
+
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=blue)
-
-
-![Figma](https://img.shields.io/badge/DEVELOPMENT--WEB-black?style=for-the-badge&logo=&logoColor=blue)
